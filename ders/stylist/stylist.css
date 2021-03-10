@@ -1,0 +1,190 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.bir {
+padding: 15rem 0;
+background-position: center;
+background-size: cover;
+background-image: url(http://images.unsplash.com/photo-1472289065668-ce650ac443d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMjA3fDB8MXxzZWFyY2h8MXx8eWVsbG93JTIwd29ya3x8MHx8fA&ixlib=rb-1.2.1&q=80&w=1080);
+text-align: center;
+
+}
+.bir h1{
+    margin-bottom: 20px;
+    color: #212529;
+font-size: 88px;
+
+}
+.bir em{
+color: #212529;
+font-size: 28px;
+}
+.bir button{
+background-color: #1d809f;
+color: #fff;
+font-size: 16px;
+padding: 20px 40px ;
+border: none ;
+border-radius: 5px;
+}
+.bir button:hover  {
+    background-color: #115266;
+    transition: 0.6s;
+}
+
+.iki{
+    padding: 8rem 0;
+    text-align: center;
+}
+.iki h2{
+    margin-bottom: 20px;
+    font-size: 32px;
+color: #212529;
+
+}
+.iki p{
+    margin-bottom: 30px;
+
+font-size: 20px;
+color: #212529;
+}
+
+.iki button{
+background-color: #343a40;
+color: #fff;
+padding: 20px 40px;
+font-size: 16px;
+border-radius: 5px;
+border: none;
+
+}
+.iki button:hover  {
+    background-color: #1d2024;
+    transition: 0.6s;
+}
+.iki a{
+text-decoration: none;
+color: #1d809f;
+
+}
+.uc{
+    padding: 8rem 0;
+    background-color: #1d809f;
+}
+
+.uc .text h3{
+    font-size: 30px;
+color:  #ecb809;
+text-align: center;
+
+}
+
+.uc .text h2{
+    margin-top: 20px;
+font-size: 48px;
+color: #fff;
+text-align: center;
+}
+.uc .text{
+    text-align: center;
+}
+
+.uc .icon .col i{
+
+font-size: 36px;
+border-radius: 100%;
+padding: 36px 43px;
+color: #1d809f;
+background-color: #fff
+
+}
+.uc .icon .col strong{
+    font-size: 24px;
+    color: #fff;
+}
+.uc .icon .col p{
+
+font-size: 16px;
+color: #ffffffb3;
+
+}
+.uc .icon .col{
+    text-align: center;
+    width: 25%;
+}
+.uc .icon{
+        display: flex;
+        margin: 50px 100px;
+    }
+.dord{
+        background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+   
+     padding: 15rem 0;
+     background-position: center;
+     background-size: cover;
+     text-align: center;
+    }
+.dord h2{
+    font-size: 56px;
+    color: #212529;
+    margin-bottom: 70px;
+}
+.dord a{
+    cursor: pointer;
+text-decoration: none;
+transition: 0.6s;
+background-color: #1d809f;
+color: #fff;
+border-radius: 4px;
+padding: 20px 40px;
+
+}
+.dord a:hover{
+    background-color: #10566b;
+    transition: 0.6s;
+}
+.bes h3{
+    font-size: 16px;
+    color:  #ecb809;
+    text-align: center;
+
+}
+.bes{
+    padding: 8rem 0;
+    background-color: #fff;
+    text-align: center;
+}
+.bes h2{
+    margin-top: 20px;
+    font-size: 48px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.alti .col .img{
+ width: 100%;
+
+}
+.alti{
+    margin: 0px 150px ;
+}
+.alti .col .text h2{
+color: #fff;
+font-size: 32px;
+
+}
+.alti .col .text p{
+    color: #fff;
+    font-size: 19.2px;
+}
+.alti .col .text{
+    position: absolute;
+    bottom: 70px;
+    left: 64px;
+}
+.alti .col{
+    position: relative;
+    width: 50%;
+}
